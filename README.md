@@ -21,9 +21,9 @@ Get an Existing Booking from Get All Bookings Ids , Update a Booking and Verify 
 Create a BOOKING, Delete It
 Invalid Creation - enter a wrong payload or Wrong JSON.
 Trying to Update on a Delete Id
-**Allure Report**
+                                           **Allure Report**
 <img width="922" alt="image" src="https://github.com/sachi1407/RestfulBooker_APItesting/assets/77764146/cd62868d-7af4-451a-8879-dc8c084c5944">
-
+                
 
 
   
